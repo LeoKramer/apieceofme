@@ -31,11 +31,43 @@
     },
     "resources": [
         {
+            "Key": "129eb9bb-8e01-4538-9b16-98e1e7dbc94f",
+            "Value": {
+                "id": "20515b39-98fc-41d4-a466-9cb8c9ec62ec",
+                "resourcePath": "objects\\o_bedroomWallPicture\\o_bedroomWallPicture.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1670002c-a421-4e9d-aa11-5ba5d93ef942",
+            "Value": {
+                "id": "c83026f4-ca06-4b33-8afd-ef9c142dd712",
+                "resourcePath": "views\\1670002c-a421-4e9d-aa11-5ba5d93ef942.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "19809081-916b-4f4c-ac4a-c54323930c98",
             "Value": {
                 "id": "392fadab-7d07-4dc3-bebe-7c384e875aac",
                 "resourcePath": "views\\19809081-916b-4f4c-ac4a-c54323930c98.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "217a970d-3c93-42a0-9117-bccf8da1bbe9",
+            "Value": {
+                "id": "e35317da-d62b-4184-ae82-ffd63afde13a",
+                "resourcePath": "objects\\o_bedroomWallPosters\\o_bedroomWallPosters.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "284af780-08e8-434b-837d-557df2288e5e",
+            "Value": {
+                "id": "f3905ea4-7231-4cbb-b5fc-6be269a39b10",
+                "resourcePath": "objects\\o_bedroomTrashCan\\o_bedroomTrashCan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -47,10 +79,50 @@
             }
         },
         {
+            "Key": "351423e1-26f7-4a37-8924-0eb363305ea2",
+            "Value": {
+                "id": "953efdf1-0590-4003-b4d7-b58ca8e34f85",
+                "resourcePath": "objects\\o_bedroomCarpet\\o_bedroomCarpet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3524da61-6739-46c2-8ab1-711dd311be8c",
+            "Value": {
+                "id": "b7154b6b-6815-4ab4-965d-b48d60248696",
+                "resourcePath": "objects\\o_wall\\o_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36992ec3-def5-46b2-ad5c-d00bf807c53b",
+            "Value": {
+                "id": "070cf8e7-e2e7-4be0-a651-e041b15dfbf5",
+                "resourcePath": "sprites\\s_bedroomBed\\s_bedroomBed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36c7132f-e402-498f-99f5-07538b929e5e",
             "Value": {
                 "id": "07f96fb9-b27b-4a90-8cbf-5ededc3db18e",
                 "resourcePath": "views\\36c7132f-e402-498f-99f5-07538b929e5e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3b5b9eca-931d-4459-a44c-da1dee1080be",
+            "Value": {
+                "id": "c5e62846-b83f-4430-9478-321f1e4d652e",
+                "resourcePath": "objects\\o_bedroomFloor\\o_bedroomFloor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3e5d954d-aa34-4d00-af7d-86518ba14da5",
+            "Value": {
+                "id": "5bd17380-262e-4bba-8fc4-525b76a16aab",
+                "resourcePath": "views\\3e5d954d-aa34-4d00-af7d-86518ba14da5.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -74,7 +146,7 @@
             "Key": "5ff4c725-ada7-465d-9205-46d21203b6fc",
             "Value": {
                 "id": "ae092aa8-046e-4e8e-9f58-c134da45d5a8",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_bedroom\\r_bedroom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -87,6 +159,22 @@
             }
         },
         {
+            "Key": "663fa9b7-deff-48ed-8a98-8b5879067316",
+            "Value": {
+                "id": "635df9aa-7570-4289-a991-ebedd754e8c0",
+                "resourcePath": "objects\\o_bedroomNightstand\\o_bedroomNightstand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c99bd20-d783-4b9d-98b1-a42014c9eb0b",
+            "Value": {
+                "id": "50558058-bafe-4317-b4eb-0ff81305dc6a",
+                "resourcePath": "sprites\\s_bedroomTrashCan\\s_bedroomTrashCan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6e667c82-1df4-4fcc-8fd8-497757920e44",
             "Value": {
                 "id": "a34272a0-7ecf-49b5-a138-8e86a9d35c3b",
@@ -95,11 +183,83 @@
             }
         },
         {
+            "Key": "71bff11e-136b-4369-a74e-d688399973cc",
+            "Value": {
+                "id": "a4100ae6-18c7-4faf-bcae-2f01e629be3d",
+                "resourcePath": "objects\\o_bedroomDesk\\o_bedroomDesk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76063b15-56de-4269-bae8-647e9b6d1210",
+            "Value": {
+                "id": "6bb24b74-62f1-4230-9e1d-052a9799562d",
+                "resourcePath": "sprites\\s_player_idle\\s_player_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "778055d7-6c5b-4a16-8c89-9226b33d63d0",
+            "Value": {
+                "id": "0053321a-39a5-4b30-b1b7-c86a0f5db501",
+                "resourcePath": "sprites\\s_bedroomBackpack\\s_bedroomBackpack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7d5aeb4e-24eb-481e-96e2-4af7c2b924b1",
+            "Value": {
+                "id": "886d2a85-1ef3-45f9-867d-e9a695e43ab8",
+                "resourcePath": "sprites\\s_bedroomWallPicture\\s_bedroomWallPicture.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7d8f3829-83c0-4962-a8c2-aab4ddd20abc",
+            "Value": {
+                "id": "def343f1-e04d-4ca9-a0af-be82e4524bfb",
+                "resourcePath": "sprites\\s_bedroomWallPosters\\s_bedroomWallPosters.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ec4802f-fad6-461f-ad6b-b5b3bd8c4ca0",
+            "Value": {
+                "id": "6d0717df-e1ab-41b2-9ccc-cb58cdb04f1e",
+                "resourcePath": "objects\\o_bedroomWindow\\o_bedroomWindow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "89766181-fd2c-4c4e-986f-14d1170fc454",
+            "Value": {
+                "id": "9f87c331-1a9c-4898-9858-fbd4434b8b78",
+                "resourcePath": "sprites\\s_bedroomFloor\\s_bedroomFloor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a389a6d-c482-4761-8914-9ed9a22c24a3",
             "Value": {
                 "id": "ae7f6bf9-66c0-4371-a149-b65bd7ee3c16",
                 "resourcePath": "views\\8a389a6d-c482-4761-8914-9ed9a22c24a3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8afbd325-7a15-4710-b20b-88cde34db708",
+            "Value": {
+                "id": "2fb5621a-4dc4-4992-a816-1e56698a9a70",
+                "resourcePath": "sprites\\s_bedroomWindow\\s_bedroomWindow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "936c8409-8d4b-4a78-95b2-ecad3cf3a2a4",
+            "Value": {
+                "id": "d558f311-ba3a-4275-ad3b-d6cd867dc4cd",
+                "resourcePath": "objects\\o_bedroomDirtyClothes\\o_bedroomDirtyClothes.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -119,11 +279,59 @@
             }
         },
         {
+            "Key": "aed6029a-0e04-41ca-b19f-9c8b366541f3",
+            "Value": {
+                "id": "e81d0bbc-d2ed-45a7-9ab8-efaa15f7dd6f",
+                "resourcePath": "sprites\\s_bedroomCarpet\\s_bedroomCarpet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3ea3ec8-4024-4206-925f-d5299ab8737e",
             "Value": {
                 "id": "d2d25481-0a64-4d42-b57d-76548c7812c7",
                 "resourcePath": "views\\b3ea3ec8-4024-4206-925f-d5299ab8737e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b70a532b-2d7d-4499-bb11-4cd0b07a2b11",
+            "Value": {
+                "id": "13dd5657-1f81-42f7-8b8a-ed6398bcff24",
+                "resourcePath": "objects\\o_bedroomBackpack\\o_bedroomBackpack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b8a0ccaa-5992-4eb5-8b48-5e0a1e63a42c",
+            "Value": {
+                "id": "a67c2030-cf93-42b7-a0da-43dd689cec37",
+                "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba5d6613-a63e-407e-9e97-c755f45d364c",
+            "Value": {
+                "id": "ca556dc3-82b1-4b47-9a89-e6941b868951",
+                "resourcePath": "objects\\o_bedroomBed\\o_bedroomBed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd3bd89c-7842-4bfb-9f51-d9fd00dcd113",
+            "Value": {
+                "id": "6e24b29b-3d27-440f-b5db-1c0d7ea3f4d9",
+                "resourcePath": "sprites\\s_bedroomNightstand\\s_bedroomNightstand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c353e59a-e8f9-48c7-abe6-ab6fc468c7ec",
+            "Value": {
+                "id": "d1e1b217-5a00-4d85-9840-73e1205aee66",
+                "resourcePath": "objects\\o_bedroomWardrobe\\o_bedroomWardrobe.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,11 +343,35 @@
             }
         },
         {
+            "Key": "c92ce08b-6342-4cfd-bbeb-703b0c4ec62a",
+            "Value": {
+                "id": "e243c831-d391-487e-97dd-299037cd5a4e",
+                "resourcePath": "views\\c92ce08b-6342-4cfd-bbeb-703b0c4ec62a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3922b11d-e835-45a2-812b-d75dc3a711e9",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0dcec1e-af53-4ab3-b82d-ab1672334177",
+            "Value": {
+                "id": "575a415e-7010-4373-bf6a-024f85410cf9",
+                "resourcePath": "views\\d0dcec1e-af53-4ab3-b82d-ab1672334177.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d2015281-d391-410a-83da-e964ec006b89",
+            "Value": {
+                "id": "2ecef035-6a78-4a80-b012-73ab246fe33d",
+                "resourcePath": "sprites\\s_bedroomDirtyClothes\\s_bedroomDirtyClothes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,11 +391,35 @@
             }
         },
         {
+            "Key": "e747b6fa-e445-4f7c-b631-089125486b86",
+            "Value": {
+                "id": "1256e4e3-f4bb-4aba-96d1-d8ef0c201005",
+                "resourcePath": "sprites\\s_bedroomWardrobe\\s_bedroomWardrobe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7960fe4-897b-4826-9fb6-11c8576574d3",
+            "Value": {
+                "id": "7c0d6508-e0f0-48dc-8ce9-1da61a506937",
+                "resourcePath": "sprites\\s_wall\\s_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e9983b8a-ad0c-4dcc-bb3d-3a0d4b5252fc",
             "Value": {
                 "id": "f2f7626e-4951-4935-aab3-36b3d8fcf668",
                 "resourcePath": "views\\e9983b8a-ad0c-4dcc-bb3d-3a0d4b5252fc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea7a9285-5063-4444-b88d-354f3ce3e204",
+            "Value": {
+                "id": "3991ed14-a233-4933-88f4-eec70b760b0d",
+                "resourcePath": "sprites\\s_bedroomDesk\\s_bedroomDesk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
