@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "29494dda-0266-4448-8fb5-8b84e7606d6a",
+            "Value": {
+                "id": "6d89fe9c-7471-4164-9df7-6b48ed5cf9d8",
+                "resourcePath": "views\\29494dda-0266-4448-8fb5-8b84e7606d6a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ac66766-43cf-4416-b9c7-4d13d4a1dacd",
+            "Value": {
+                "id": "dda69cf2-03b2-46a5-8ace-bed77e2182d6",
+                "resourcePath": "objects\\o_bedroomComic\\o_bedroomComic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2cc74055-ff9e-4bfd-90b8-acea0efaead8",
             "Value": {
                 "id": "e6f40634-f423-439f-903f-9d115ae99c04",
@@ -495,11 +511,27 @@
             }
         },
         {
+            "Key": "cc351a70-a681-4b9b-a318-81d97a7bb7aa",
+            "Value": {
+                "id": "d6024222-7c3f-4c96-acc5-2302454565ec",
+                "resourcePath": "sprites\\s_bedroomComic\\s_bedroomComic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3922b11d-e835-45a2-812b-d75dc3a711e9",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd0fd121-e3df-41f0-94f1-815d127ddda6",
+            "Value": {
+                "id": "c488d990-4fda-4f4a-9d64-aadfa6523b37",
+                "resourcePath": "objects\\o_bedroomUnlockable\\o_bedroomUnlockable.yy",
+                "resourceType": "GMObject"
             }
         },
         {

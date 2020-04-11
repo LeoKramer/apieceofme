@@ -90,3 +90,5 @@ if(hsp == 0 && vsp == 0)
 			break;
 	}
 }
+
+if(interacting) state = PLAYERSTATE.INTERACTING;

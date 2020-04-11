@@ -1,5 +1,6 @@
 /// @description 
 room_speed = 60;
+room_persistent = true;
 
 hsp = 0;
 vsp = 0;
@@ -21,3 +22,6 @@ enum PLAYERSIDE
 	LEFT,
 	RIGHT
 }
+
+interacting = false;
+collectedBedroomPiece = false;

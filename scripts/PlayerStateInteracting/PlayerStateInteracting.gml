@@ -1,0 +1,1 @@
+if(!interacting) state = PLAYERSTATE.WALKING;
