@@ -23,5 +23,5 @@ enum PLAYERSIDE
 	RIGHT
 }
 
-interacting = false;
+interacting = true;
 collectedBedroomPiece = false;
