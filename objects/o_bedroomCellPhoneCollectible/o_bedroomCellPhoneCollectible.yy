@@ -1,28 +1,28 @@
 {
-    "id": "dde09545-f8f1-45a6-a620-465f79b4e9c4",
+    "id": "c3682130-cd77-49d5-a776-209946f9a651",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_camera",
+    "name": "o_bedroomCellPhoneCollectible",
     "eventList": [
         {
-            "id": "f485a7b6-6f0f-4dd0-b004-56ebbd8cd11f",
+            "id": "8da5692e-53ed-4b41-b5cb-badba7ae62ba",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "dde09545-f8f1-45a6-a620-465f79b4e9c4"
+            "m_owner": "c3682130-cd77-49d5-a776-209946f9a651"
         },
         {
-            "id": "0264ee2b-8bb3-45e4-992f-d9cb26d840da",
+            "id": "ce187d98-6d66-43c1-aba1-f7467f5583cd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "dde09545-f8f1-45a6-a620-465f79b4e9c4"
+            "m_owner": "c3682130-cd77-49d5-a776-209946f9a651"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": true
+    "spriteId": "0f53763d-4d1e-4d0b-9ac0-8407911472f9",
+    "visible": false
 }

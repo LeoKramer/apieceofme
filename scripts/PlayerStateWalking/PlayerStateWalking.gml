@@ -5,7 +5,7 @@ hsp = _hmove * walksp;
 var _vmove = key_down - key_up;
 vsp = _vmove * walksp;
 
-// Horizontal collision with wall
+// Horizontal collision with wall or unlockable path
 if (place_meeting(x+hsp,y,o_wall))
 {
 	while (!place_meeting(x+sign(hsp),y,o_wall))
@@ -14,6 +14,16 @@ if (place_meeting(x+hsp,y,o_wall))
 	}
 	hsp = 0;
 }
+
+if (place_meeting(x+hsp,y,o_unlockable))
+{
+	while (!place_meeting(x+sign(hsp),y,o_unlockable))
+	{
+		x += sign(hsp);
+	}
+	hsp = 0;
+}
+
 x += hsp;
 
 // Vertical collision with wall
@@ -25,6 +35,16 @@ if (place_meeting(x,y+vsp,o_wall))
 	}
 	vsp = 0;
 }
+
+if (place_meeting(x,y+vsp,o_unlockable))
+{
+	while (!place_meeting(x,y+sign(vsp),o_unlockable))
+	{
+		y += sign(vsp);
+	}
+	vsp = 0;
+}
+
 y += vsp;
 
 // Animation

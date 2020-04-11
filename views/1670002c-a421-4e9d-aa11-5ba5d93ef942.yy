@@ -15,7 +15,12 @@
         "129eb9bb-8e01-4538-9b16-98e1e7dbc94f",
         "936c8409-8d4b-4a78-95b2-ecad3cf3a2a4",
         "351423e1-26f7-4a37-8924-0eb363305ea2",
-        "ba5d6613-a63e-407e-9e97-c755f45d364c"
+        "ba5d6613-a63e-407e-9e97-c755f45d364c",
+        "7bb59c22-5458-4d8c-a928-4117dc270285",
+        "1cf1c882-6cdf-4098-a1bf-2e0a40897ef6",
+        "4b20bbf9-541d-4d99-bb04-dd47f3c8ae33",
+        "4fac84a5-6e4a-4ac1-8d56-bf76ef0a66a3",
+        "c3682130-cd77-49d5-a776-209946f9a651"
     ],
     "filterType": "GMObject",
     "folderName": "bedroom",

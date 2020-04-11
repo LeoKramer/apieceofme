@@ -1,8 +1,8 @@
 {
-    "id": "663fa9b7-deff-48ed-8a98-8b5879067316",
+    "id": "1cf1c882-6cdf-4098-a1bf-2e0a40897ef6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_bedroomNightstand",
+    "name": "o_bedroomPiece",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "769cb06f-a836-44cf-bfbb-9f44348ae545",
+    "spriteId": "f1dc0717-6e78-44bb-843e-b1472de36edb",
     "visible": true
 }
