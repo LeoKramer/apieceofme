@@ -1,6 +1,6 @@
 /// @description 
 room_speed = 60;
-room_persistent = true;
+persistent = true;
 
 hsp = 0;
 vsp = 0;
