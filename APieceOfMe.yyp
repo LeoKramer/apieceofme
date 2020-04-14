@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "a329bf96-cfaa-45d4-babe-92c3eea84986",
+            "Value": {
+                "id": "7b1e79e9-30e1-4cb3-937d-70880580c1dc",
+                "resourcePath": "scripts\\PlayerStateRoomTransitioning\\PlayerStateRoomTransitioning.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a8cdd4cf-bffb-441a-8bf0-672a2f996c9a",
             "Value": {
                 "id": "830a2a84-2cd3-41b3-86ba-0bceb3b47beb",
@@ -791,6 +799,14 @@
             }
         },
         {
+            "Key": "f25a6adc-c413-4d1e-ba3a-39bac8d258d3",
+            "Value": {
+                "id": "785d3868-c0d3-414c-a797-f7d8241c504c",
+                "resourcePath": "objects\\o_hallBedroomTransition\\o_hallBedroomTransition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f25d4329-f8cb-4bbd-9e80-8fdb8705a3fe",
             "Value": {
                 "id": "1e632d5c-2b44-4158-b268-f3a22bc567af",
@@ -841,7 +857,8 @@
     ],
     "script_order": [
         "1beb927b-2519-4cd1-b340-df207f148dd4",
-        "7afaaf66-4065-4955-bdea-c43cd74829e0"
+        "7afaaf66-4065-4955-bdea-c43cd74829e0",
+        "a329bf96-cfaa-45d4-babe-92c3eea84986"
     ],
     "tutorial": ""
 }

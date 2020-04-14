@@ -12,7 +12,8 @@ side = PLAYERSIDE.FRONT;
 enum PLAYERSTATE
 {
 	WALKING,
-	INTERACTING
+	INTERACTING,
+	TRANSITIONING
 }
 
 enum PLAYERSIDE
@@ -22,6 +23,14 @@ enum PLAYERSIDE
 	LEFT,
 	RIGHT
 }
+
+enum ROOMS
+{
+	BEDROOM,
+	HALL
+}
+previousRoom = ROOMS.BEDROOM;
+destinationRoom = ROOMS.HALL;
 
 interacting = true;
 collectedBedroomPiece = false;

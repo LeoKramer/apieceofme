@@ -1,18 +1,18 @@
 {
-    "id": "7e087418-8980-407c-b986-613c9e94b5ac",
+    "id": "f25a6adc-c413-4d1e-ba3a-39bac8d258d3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_hallFloor",
+    "name": "o_hallBedroomTransition",
     "eventList": [
         {
-            "id": "06fd7259-426f-431a-bd44-df120505a9bb",
+            "id": "7803c310-9968-49ab-95f7-549eb5f779df",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7e087418-8980-407c-b986-613c9e94b5ac"
+            "eventtype": 3,
+            "m_owner": "f25a6adc-c413-4d1e-ba3a-39bac8d258d3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "77af0d59-5790-4d83-aca2-d0faa6d900a8",
-    "visible": true
+    "spriteId": "421abda3-28a2-40d3-8d18-c7fcc42e3154",
+    "visible": false
 }

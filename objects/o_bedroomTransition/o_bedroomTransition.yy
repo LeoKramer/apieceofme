@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_bedroomTransition",
     "eventList": [
-        
+        {
+            "id": "ccba7e36-0b86-4c26-a704-1d24bfc069bc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "acb0c84e-eeb0-44fe-9647-6f1ab27e3fd3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

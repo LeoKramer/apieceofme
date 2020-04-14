@@ -14,4 +14,7 @@ switch (state)
 	case PLAYERSTATE.INTERACTING:
 		PlayerStateInteracting();
 		break;
+	case PLAYERSTATE.TRANSITIONING:
+		PlayerStateRoomTransitioning();
+		break;
 }
