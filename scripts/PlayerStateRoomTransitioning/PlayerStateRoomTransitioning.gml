@@ -8,6 +8,11 @@ if(destinationRoom == ROOMS.HALL)
 		referenceObject = o_hallBedroomTransition; 
 		offset = 1;
 	}
+	else if(previousRoom == ROOMS.LIVINGROOM)
+	{
+		referenceObject = o_hallLivingRoomTransition;
+		offset = -100;
+	}
 }
 
 if(destinationRoom == ROOMS.BEDROOM)
@@ -16,6 +21,15 @@ if(destinationRoom == ROOMS.BEDROOM)
 	offset = -66;
 }
 
+if(destinationRoom == ROOMS.LIVINGROOM)
+{
+	referenceObject = o_livingRoomHallTransition;
+	offset = 1;
+}
+
 o_player.x = referenceObject.x;
 o_player.y = referenceObject.y + offset;
+
+o_camera.changedRoom = true;
+
 state = PLAYERSTATE.WALKING;

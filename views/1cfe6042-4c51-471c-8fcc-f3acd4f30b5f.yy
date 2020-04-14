@@ -11,7 +11,8 @@
         "74e0be72-cc65-48eb-826f-593287ea7cd1",
         "336c4379-522f-40c9-b00e-bd66aa247a48",
         "7a32ee43-474e-4e71-9764-e3fdc161c16b",
-        "f25a6adc-c413-4d1e-ba3a-39bac8d258d3"
+        "f25a6adc-c413-4d1e-ba3a-39bac8d258d3",
+        "128f8769-4639-47f9-83c2-85c4aeda9a3a"
     ],
     "filterType": "GMObject",
     "folderName": "hall",

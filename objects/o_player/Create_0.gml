@@ -27,7 +27,8 @@ enum PLAYERSIDE
 enum ROOMS
 {
 	BEDROOM,
-	HALL
+	HALL,
+	LIVINGROOM
 }
 previousRoom = ROOMS.BEDROOM;
 destinationRoom = ROOMS.HALL;

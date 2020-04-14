@@ -1,4 +1,10 @@
 /// @description 
+if(changedRoom) 
+{
+	surface_resize(application_surface, view_wport[0], view_hport[0]);
+	changedRoom = false;
+}
+
 // Update destination
 if (instance_exists(follow))
 {
