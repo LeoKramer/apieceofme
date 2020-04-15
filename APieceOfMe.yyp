@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "14030f5b-281f-40ce-b397-4c4673d82756",
+            "Value": {
+                "id": "4e7d24ba-fa44-4f65-92aa-f94f689ad8ae",
+                "resourcePath": "objects\\o_motherSadThought\\o_motherSadThought.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1670002c-a421-4e9d-aa11-5ba5d93ef942",
             "Value": {
                 "id": "c83026f4-ca06-4b33-8afd-ef9c142dd712",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "1e30f115-1728-4790-ac86-5e5ee690614b",
+            "Value": {
+                "id": "9d5087b6-48eb-4916-80e5-c450d795e572",
+                "resourcePath": "sprites\\s_motherFirstEncounterDialog\\s_motherFirstEncounterDialog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "217a970d-3c93-42a0-9117-bccf8da1bbe9",
             "Value": {
                 "id": "e35317da-d62b-4184-ae82-ffd63afde13a",
@@ -210,7 +226,7 @@
             "Key": "31ce2ca4-a7a6-4b49-8d42-c5a986e0c12f",
             "Value": {
                 "id": "24357403-a408-4e5d-b412-a48ab581e57d",
-                "resourcePath": "objects\\mother\\mother.yy",
+                "resourcePath": "objects\\o_mother\\o_mother.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -260,6 +276,14 @@
                 "id": "c5e62846-b83f-4430-9478-321f1e4d652e",
                 "resourcePath": "objects\\o_bedroomFloor\\o_bedroomFloor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d2d9c98-1db1-4b52-be37-b9aaebf55937",
+            "Value": {
+                "id": "187c0662-2d97-4c12-bd6a-e6c8ceead9d8",
+                "resourcePath": "sprites\\s_doubt\\s_doubt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,6 +871,14 @@
             }
         },
         {
+            "Key": "c2b6dfc1-d4c4-46d4-98c0-950f52d7289c",
+            "Value": {
+                "id": "53e24a0f-87df-4bbd-909c-4ecd8c05ed28",
+                "resourcePath": "sprites\\s_sadThought\\s_sadThought.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c353e59a-e8f9-48c7-abe6-ab6fc468c7ec",
             "Value": {
                 "id": "d1e1b217-5a00-4d85-9840-73e1205aee66",
@@ -991,6 +1023,14 @@
             }
         },
         {
+            "Key": "dc07b49e-cb82-4040-b520-23423351d655",
+            "Value": {
+                "id": "55ab0da9-4e74-4687-a858-2d85a1300fcb",
+                "resourcePath": "objects\\o_playerMotherFirstEncounterResponse\\o_playerMotherFirstEncounterResponse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dcee29a8-0bc0-4c64-b568-c335777c28a6",
             "Value": {
                 "id": "50ef0355-5cc3-4138-8ebe-8ddf4cd2d461",
@@ -1076,6 +1116,14 @@
                 "id": "f2f7626e-4951-4935-aab3-36b3d8fcf668",
                 "resourcePath": "views\\e9983b8a-ad0c-4dcc-bb3d-3a0d4b5252fc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e9d77cad-31a4-4e0c-a375-1d3096e2ca27",
+            "Value": {
+                "id": "0831f230-6f1d-439c-80e4-c261ec8830f2",
+                "resourcePath": "objects\\o_motherFirstEncounterDialog\\o_motherFirstEncounterDialog.yy",
+                "resourceType": "GMObject"
             }
         },
         {

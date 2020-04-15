@@ -29,7 +29,4 @@ if(destinationRoom == ROOMS.LIVINGROOM)
 
 o_player.x = referenceObject.x;
 o_player.y = referenceObject.y + offset;
-
-o_camera.changedRoom = true;
-
 state = PLAYERSTATE.WALKING;

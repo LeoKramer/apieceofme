@@ -1,6 +1,5 @@
 /// @description 
 //view_enabled = false;
-persistent = true;
 
 cam = view_camera[0]
 follow = o_player;
@@ -9,4 +8,3 @@ view_h_half = camera_get_view_height(cam) * 0.5;
 xTo = xstart;
 yTo = ystart;
 window_set_fullscreen(true);
-changedRoom = false;
