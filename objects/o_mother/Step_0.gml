@@ -9,6 +9,7 @@ if(!didPlayerFirstEncounter)
 	{
 		didPlayerFirstEncounter = true;
 		o_player.interacting = true;
+		o_player.didMotherFirstEncounter = true;
 		alarm[0] = room_speed * 1.5;
 	}
 }
@@ -23,6 +24,7 @@ if(walkingToTheDoor)
 	else if(x > o_livingRoomShelf.x)
 	{
 		x -= 3;
+		o_player.interacting = false;
 	}
 	else if(x > o_livingRoomDoor.x)
 	{

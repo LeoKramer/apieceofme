@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03853daf-d1a3-4525-b332-3542e471951c",
+            "Value": {
+                "id": "a5c775bc-ec3e-4313-ae9b-da322c27d67c",
+                "resourcePath": "sprites\\s_pianoMinigameInterfaceBackground\\s_pianoMinigameInterfaceBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "044feea6-5720-49cb-95e3-37c7ddd571e7",
             "Value": {
                 "id": "ba683446-47df-42af-be63-b5c94faaadd7",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "2f283cff-bf26-4082-853a-d99f24b520f0",
+            "Value": {
+                "id": "290e651b-b19b-4f16-8211-df818482284e",
+                "resourcePath": "objects\\o_pianoMinigameStar\\o_pianoMinigameStar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31ce2ca4-a7a6-4b49-8d42-c5a986e0c12f",
             "Value": {
                 "id": "24357403-a408-4e5d-b412-a48ab581e57d",
@@ -271,11 +287,35 @@
             }
         },
         {
+            "Key": "39ca4fe6-dad7-4c26-b55b-178cc4cba5bc",
+            "Value": {
+                "id": "0fa877b0-d709-46e4-a4cd-beb8551f72df",
+                "resourcePath": "sprites\\s_pianoMinigamePianoKey1\\s_pianoMinigamePianoKey1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b5b9eca-931d-4459-a44c-da1dee1080be",
             "Value": {
                 "id": "c5e62846-b83f-4430-9478-321f1e4d652e",
                 "resourcePath": "objects\\o_bedroomFloor\\o_bedroomFloor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3babcf9e-4b78-42ee-9b3e-91a2b938b91e",
+            "Value": {
+                "id": "bd39c465-4cf0-4769-981c-746eb2c3efb0",
+                "resourcePath": "objects\\o_pianoMinigamePianoKey3\\o_pianoMinigamePianoKey3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3be3718f-825c-4987-91c4-936e6eea5ab0",
+            "Value": {
+                "id": "99495779-4e02-4e7b-9206-c33637e002ee",
+                "resourcePath": "sprites\\s_pianoMinigamePianoKey2\\s_pianoMinigamePianoKey2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +375,14 @@
             }
         },
         {
+            "Key": "44ce7f25-3f7a-45cf-8241-9cc7567a5e2c",
+            "Value": {
+                "id": "167f54eb-a77e-4223-9374-5e08a3ce1368",
+                "resourcePath": "sprites\\s_pianoMinigamePianoKeyDown\\s_pianoMinigamePianoKeyDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4520e7f6-76b5-4d9e-9d12-2ba95f93109f",
             "Value": {
                 "id": "1062756d-7f16-4eb3-bd07-18f311ec92ca",
@@ -383,10 +431,42 @@
             }
         },
         {
+            "Key": "534883f2-3a93-49e9-9320-e3b6beaf9cbd",
+            "Value": {
+                "id": "b5d7f033-7b1b-42c5-94ca-e226f9d39d70",
+                "resourcePath": "objects\\o_pianoMinigameInterface2\\o_pianoMinigameInterface2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "545ce60a-0395-42c1-997b-b0a502230ab8",
             "Value": {
                 "id": "76c50548-20cc-473f-97bf-e6a3280d1fd1",
                 "resourcePath": "objects\\o_livingRoomCarpet\\o_livingRoomCarpet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57e65471-26ca-42c1-a003-ecdb5495bdee",
+            "Value": {
+                "id": "c1471f4f-dc74-4d9c-a0fc-d618250bbf10",
+                "resourcePath": "objects\\o_pianoMinigameInterface\\o_pianoMinigameInterface.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c93f582-0aa8-4167-837a-40e1be9e5ddd",
+            "Value": {
+                "id": "4417bbb8-0f1e-4aab-b32e-dc119b454c04",
+                "resourcePath": "sprites\\s_pianoMinigamePlayKeys\\s_pianoMinigamePlayKeys.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f01995e-1afd-40c0-a01d-25bc3f5313f4",
+            "Value": {
+                "id": "ac9b016c-52fc-4823-95a9-d1afdcdd8321",
+                "resourcePath": "objects\\o_livingRoomComic\\o_livingRoomComic.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -471,11 +551,27 @@
             }
         },
         {
+            "Key": "6d89ad7c-a72f-4c24-9dad-3ab653b97920",
+            "Value": {
+                "id": "ec36c922-656c-4686-960c-6111e03bfc7a",
+                "resourcePath": "objects\\o_pianoMinigameInterfaceBackground\\o_pianoMinigameInterfaceBackground.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e667c82-1df4-4fcc-8fd8-497757920e44",
             "Value": {
                 "id": "a34272a0-7ecf-49b5-a138-8e86a9d35c3b",
                 "resourcePath": "views\\6e667c82-1df4-4fcc-8fd8-497757920e44.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f2d4448-2d14-4d50-96ab-dcd68b4fbc90",
+            "Value": {
+                "id": "9ae24025-e5cf-480b-aab6-581642fba58f",
+                "resourcePath": "objects\\o_pianoMinigamePlayNote\\o_pianoMinigamePlayNote.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -508,6 +604,14 @@
                 "id": "253ed566-170d-4d14-aad9-9f88ea39965b",
                 "resourcePath": "sprites\\s_livingRoomCouch1\\s_livingRoomCouch1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75ad2921-f4a3-4007-9b57-5b1aa64d51fd",
+            "Value": {
+                "id": "8fb85780-041e-475f-a384-b66404aa8b35",
+                "resourcePath": "objects\\o_hallPortraitMotherCollectible\\o_hallPortraitMotherCollectible.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -564,6 +668,14 @@
                 "id": "3ca77c79-e140-4d3e-b184-4fa85df11d25",
                 "resourcePath": "sprites\\s_playerIdleSide\\s_playerIdleSide.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "79e70ef3-fe15-4e28-aea1-0bf315e14bce",
+            "Value": {
+                "id": "e960c8cd-b6f1-49b0-90ee-ff319a4807db",
+                "resourcePath": "objects\\o_pianoMinigamePianoKey2\\o_pianoMinigamePianoKey2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -639,6 +751,14 @@
             }
         },
         {
+            "Key": "89dca434-3d5e-42f4-998c-22d8626177ac",
+            "Value": {
+                "id": "67b9d1c8-6d81-40c3-8b24-ab099b7b6538",
+                "resourcePath": "sprites\\s_pianoMinigameStar\\s_pianoMinigameStar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a111ffe-ae87-44f9-b3e6-330cb0c88326",
             "Value": {
                 "id": "f10faee2-a14c-4966-aafe-95bc5b2d012e",
@@ -655,6 +775,14 @@
             }
         },
         {
+            "Key": "8adff5ab-2a16-4c0b-9852-90225b1aa046",
+            "Value": {
+                "id": "92a412c3-b90e-4c2f-a70b-daa84c46b4f4",
+                "resourcePath": "sprites\\s_livingRoomComic\\s_livingRoomComic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8afbd325-7a15-4710-b20b-88cde34db708",
             "Value": {
                 "id": "2fb5621a-4dc4-4992-a816-1e56698a9a70",
@@ -663,10 +791,26 @@
             }
         },
         {
+            "Key": "8f89d86b-0436-40d6-aacc-b159ca6f6a56",
+            "Value": {
+                "id": "08b967b6-f2cc-4b6c-9421-5e7fe6adc3ae",
+                "resourcePath": "objects\\o_pianoMinigameCloud\\o_pianoMinigameCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "90da6673-0642-47b8-8bd7-9eddc312590d",
             "Value": {
                 "id": "f8426204-c562-4f1b-ae72-ada0177214fa",
                 "resourcePath": "objects\\o_livingRoomPiano\\o_livingRoomPiano.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "91285013-3715-4dc6-99a7-d36aed999c25",
+            "Value": {
+                "id": "661db4f7-f25a-46a4-9a3e-3d3bda4f6839",
+                "resourcePath": "objects\\o_pianoMinigamePianoKey1\\o_pianoMinigamePianoKey1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -692,6 +836,22 @@
                 "id": "c5fea911-8129-4a9b-acee-4f7363e72bba",
                 "resourcePath": "objects\\o_livingRoomDoor\\o_livingRoomDoor.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9a88ea2a-9015-4769-8f22-ac460407f63f",
+            "Value": {
+                "id": "74b4eab8-d3b7-4e80-a4f6-85231bcea457",
+                "resourcePath": "sprites\\s_pianoMinigamePianoKey3\\s_pianoMinigamePianoKey3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b132bd7-c186-4cc2-8610-f32e6e471731",
+            "Value": {
+                "id": "86b77093-9bdb-4441-9212-61fb8e75a77f",
+                "resourcePath": "sprites\\s_pianoMinigameInterface\\s_pianoMinigameInterface.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -724,6 +884,22 @@
                 "id": "7b1e79e9-30e1-4cb3-937d-70880580c1dc",
                 "resourcePath": "scripts\\PlayerStateRoomTransitioning\\PlayerStateRoomTransitioning.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a50cf01c-44ea-40f0-a14a-9e2256cb295d",
+            "Value": {
+                "id": "403fc28b-81e8-4921-af5b-56bdd05c29c5",
+                "resourcePath": "objects\\o_s_pianoMinigameSun\\o_s_pianoMinigameSun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5a84d32-9c68-4fed-96f4-a7aae8b922d7",
+            "Value": {
+                "id": "6987a50a-9a13-40dd-bf77-d3f2e508fe1b",
+                "resourcePath": "sprites\\s_pianoMinigameCloud\\s_pianoMinigameCloud.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -767,10 +943,26 @@
             }
         },
         {
+            "Key": "adaab600-147e-465d-be49-287c52274951",
+            "Value": {
+                "id": "9d2fff80-f8be-4695-bf12-51f14756a461",
+                "resourcePath": "sprites\\s_pianoMinigameBackground\\s_pianoMinigameBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aed6029a-0e04-41ca-b19f-9c8b366541f3",
             "Value": {
                 "id": "e81d0bbc-d2ed-45a7-9ab8-efaa15f7dd6f",
                 "resourcePath": "sprites\\s_bedroomCarpet\\s_bedroomCarpet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b239df30-4440-4136-b8c0-6c1689787d71",
+            "Value": {
+                "id": "1e411818-9577-49f8-917c-8bc7f6ae088d",
+                "resourcePath": "sprites\\s_pianoMinigamePlayNote\\s_pianoMinigamePlayNote.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -788,6 +980,14 @@
                 "id": "8e166f1b-d789-4ac2-8f22-331ad8a29099",
                 "resourcePath": "sprites\\s_livingRoomPianoLocked\\s_livingRoomPianoLocked.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b685a1ff-4978-4944-aa30-af11be6252f7",
+            "Value": {
+                "id": "112f22fc-7502-43ca-bf0b-510edc4eb9f7",
+                "resourcePath": "objects\\o_hallMotherPortraitInteractionDialog\\o_hallMotherPortraitInteractionDialog.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -812,6 +1012,30 @@
                 "id": "a67c2030-cf93-42b7-a0da-43dd689cec37",
                 "resourcePath": "objects\\o_player\\o_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9050d32-5584-4d65-b71f-376186303ad0",
+            "Value": {
+                "id": "7f14571d-ac69-4127-83df-34ee354759e7",
+                "resourcePath": "sprites\\s_pianoMinigameInterface2\\s_pianoMinigameInterface2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b959902e-5606-4f32-87cd-995335b6881c",
+            "Value": {
+                "id": "df6f4a8b-d711-459c-b32f-f1c00695dc5c",
+                "resourcePath": "objects\\o_livingRoomUnlockable\\o_livingRoomUnlockable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9b35941-d54b-4a3a-936d-999277b4f0e7",
+            "Value": {
+                "id": "088e14fe-6edd-4094-9c96-0c8253e6f613",
+                "resourcePath": "sprites\\s_motherPortraitInteract\\s_motherPortraitInteract.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -855,10 +1079,26 @@
             }
         },
         {
+            "Key": "be737b4b-469c-4ba2-8f21-887250e43c03",
+            "Value": {
+                "id": "b6e72d00-696c-4ab2-9350-09d728a4e04a",
+                "resourcePath": "views\\be737b4b-469c-4ba2-8f21-887250e43c03.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c00975a1-04ff-47fd-a67f-42c33fce3ee5",
             "Value": {
                 "id": "baa0194d-a6e3-4848-8809-0a3601612edb",
                 "resourcePath": "sprites\\s_hallPortraits\\s_hallPortraits.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c16387f2-f805-46f2-b040-c8cd36bc6cb7",
+            "Value": {
+                "id": "cdd15aaf-fd6c-403c-b44b-0ff802f1792b",
+                "resourcePath": "sprites\\s_pianoMinigameHeart\\s_pianoMinigameHeart.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -891,6 +1131,14 @@
             "Value": {
                 "id": "750b76e4-2b2c-4557-96a2-7bbe88dc2df7",
                 "resourcePath": "objects\\o_bedroomCellPhoneCollectible\\o_bedroomCellPhoneCollectible.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c44ce592-9df5-49ee-a770-0ac2e9d0f7a7",
+            "Value": {
+                "id": "c0c0fad0-50a2-4920-97e4-ca6868e084de",
+                "resourcePath": "objects\\o_pianoMinigameHeart\\o_pianoMinigameHeart.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -951,6 +1199,14 @@
             }
         },
         {
+            "Key": "cc4f0e56-0808-4cc3-9a7c-25af84131d52",
+            "Value": {
+                "id": "1e446863-f6a7-4369-8098-967418cbee6f",
+                "resourcePath": "sprites\\s_pianoMinigameMusicalNote\\s_pianoMinigameMusicalNote.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3922b11d-e835-45a2-812b-d75dc3a711e9",
@@ -963,6 +1219,22 @@
             "Value": {
                 "id": "c488d990-4fda-4f4a-9d64-aadfa6523b37",
                 "resourcePath": "objects\\o_bedroomUnlockable\\o_bedroomUnlockable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce1e42f1-d5f3-4d5b-93f2-65ab7f6ba14d",
+            "Value": {
+                "id": "2d5f0701-c32d-40e7-be92-adf60c757fff",
+                "resourcePath": "sprites\\s_pianoMinigameSun\\s_pianoMinigameSun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0c49bd5-a25b-4e17-91bc-e411f3db66a5",
+            "Value": {
+                "id": "74ee9697-5eb4-41ce-ab12-ae267abe4b26",
+                "resourcePath": "objects\\o_pianoMinigamePlayKeys\\o_pianoMinigamePlayKeys.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1012,6 +1284,14 @@
                 "id": "a560d86d-0a7c-44a4-9611-2a90407935fe",
                 "resourcePath": "sprites\\s_livingRoomPainting\\s_livingRoomPainting.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d5e4809b-0680-4f2b-b69f-283f89306b19",
+            "Value": {
+                "id": "3ede5369-56fe-429f-95a0-5909616f2de8",
+                "resourcePath": "objects\\o_pianoMinigamePianoKeyDown\\o_pianoMinigamePianoKeyDown.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1127,6 +1407,14 @@
             }
         },
         {
+            "Key": "eb7dbc68-91ab-4dd2-abeb-2d4be95fc0a5",
+            "Value": {
+                "id": "34d50f3e-d5e5-41d2-b8d8-27c9d1f9e4a7",
+                "resourcePath": "views\\eb7dbc68-91ab-4dd2-abeb-2d4be95fc0a5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ec470be0-2176-4034-8e72-1a33075b6b73",
             "Value": {
                 "id": "9b1712f3-32aa-4fb5-9eca-40df31637b8b",
@@ -1175,6 +1463,14 @@
             }
         },
         {
+            "Key": "f33fdc73-a882-4b18-8871-93e595e80591",
+            "Value": {
+                "id": "1556258d-e9b0-46db-96f4-0c085c3813af",
+                "resourcePath": "objects\\o_pianoMinigameMusicalNote\\o_pianoMinigameMusicalNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "09c70e30-4f5b-4592-9b51-f7afcc374af0",
@@ -1196,6 +1492,14 @@
                 "id": "15da7a90-bf0e-453e-9490-0e7cea7e1923",
                 "resourcePath": "sprites\\s_interact\\s_interact.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbd75029-b4ef-4565-ab38-dc34c512fb25",
+            "Value": {
+                "id": "b291f9f9-77c9-48d3-80dc-9ab4f0f21a44",
+                "resourcePath": "objects\\o_pianoMinigameBackground\\o_pianoMinigameBackground.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -34,4 +34,7 @@ previousRoom = ROOMS.BEDROOM;
 destinationRoom = ROOMS.HALL;
 
 interacting = true;
+
 collectedBedroomPiece = false;
+didMotherFirstEncounter = false;
+collectedMotherPortraitPiece = false;
