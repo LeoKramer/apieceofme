@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1b9ce583-6a27-42d0-8f7d-c2f200f31780",
+            "Value": {
+                "id": "4abb9685-51c3-4231-a6ed-3f5b89e90b78",
+                "resourcePath": "rooms\\r_pianoMiniGame\\r_pianoMiniGame.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1beb927b-2519-4cd1-b340-df207f148dd4",
             "Value": {
                 "id": "811f3881-6300-4164-8f23-818a12a7cf7a",
